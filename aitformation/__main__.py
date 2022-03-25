@@ -1,6 +1,7 @@
 import psutil
 import platform
 from datetime import datetime
+import time
 print("************Aitformation v1.0***************")
 time.sleep(1)
 print ("~ $ Loading Aitformation...")
