@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name = "AitTools",
+    name = "aitformation",
     version = "0.1.0",
     description = "All the packages of Aitzaz Imtiaz with multiple commands.",
     author = "AitzazImtiaz",
